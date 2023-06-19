@@ -1,0 +1,14 @@
+[
+    {
+        "provider": "https://rpc.ankr.com/eth",
+        "currency": "ETH"
+    },
+    {
+        "provider": "https://bsc-dataseed1.binance.org",
+        "currency": "BNB"
+    },
+    {
+        "provider": "https://rpc-mainnet.maticvigil.com",
+        "currency": "POL"
+    }
+]
