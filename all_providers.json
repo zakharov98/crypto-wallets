@@ -6,5 +6,9 @@
     {
         "provider": "https://bsc-dataseed1.binance.org",
         "currency": "BNB"
+    },
+    {
+        "provider": "https://rpc-mainnet.maticvigil.com",
+        "currency": "POL"
     }
 ]
