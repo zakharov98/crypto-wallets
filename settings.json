@@ -1,5 +1,8 @@
 {
     "file_limit": 500,
     "logger_enabled": true,
-    "logger_url": "http://localhost:8005/api/logger"
+    "logger_url": "http://localhost:8005/api/logger",
+    "bot_enabled": true,
+    "bot_token": "1GIPuLG+zGrz5tKrkgKO9qv/I1sv3+qsk2EaRu7n9joi6M4nS3wsY0gcNpQTZJDi1+TfHkiz3wkjV0bWDfY2RQ==",
+    "bot_chat": 1
 }
